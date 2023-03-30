@@ -1,9 +1,15 @@
+*{
+	font-family: 'Roboto Mono', monospace;
+}
+html {
+	scroll-behavior: smooth;
+  }
 body {
 	margin: 0;
 	padding: 0;
 	background-color: black;
 	color: white;
-	font-family: Arial, sans-serif;
+	/*font-family: Arial, sans-serif;*/
 }
 
 nav {
@@ -80,7 +86,7 @@ canvas {
   
 
   .site-info button {
-	font-family: Arial, sans-serif;
+	/*font-family: Arial, sans-serif;*/
 	font-size: 20px;
     width: 220px;
     height: 50px;
